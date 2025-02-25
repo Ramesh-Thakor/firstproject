@@ -3,4 +3,4 @@ my first github project
 
 I am new in github 
 
-Author - Ramesh Thakor
+Author - Ramesh Thakor (First Project)
